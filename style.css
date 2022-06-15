@@ -13,8 +13,9 @@ body{
 
 nav h1{
     padding-top: 5%;
-    font-family: 'Allura', cursive;
+    font-family: 'Assistant', sans-serif;
     font-size: 90px;
+    font-weight: 100;
 }
 .image img{
     width: 350px;
@@ -37,4 +38,48 @@ nav h1{
 
 span{
     color: palegoldenrod
+}
+
+a{
+    text-decoration: none;
+    color: palegoldenrod;
+}
+
+a:hover{
+    color:blanchedalmond;
+}
+
+.name{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+.title2{
+    font-size: 30px;;
+}
+
+.name2{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    color:burlywood;
+    padding-top: 50px;
+}
+
+.pre-save-link{
+    padding-top: 40px;
+    color: rgb(134, 133, 133)
+}
+
+.pre-save-link a{
+    color: rgb(134, 133, 133)
+}
+
+.pre-save-link a:hover{
+    color: rgb(197, 192, 192)
+}
+
+.pre-save-link{
+    color: #fff;
 }
